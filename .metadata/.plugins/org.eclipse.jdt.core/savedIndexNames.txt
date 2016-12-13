@@ -1,0 +1,1 @@
+INDEX VERSION 1.127+C:\Users\Lidia_sv\Documents\GitHub\.metadata\.plugins\org.eclipse.jdt.core
